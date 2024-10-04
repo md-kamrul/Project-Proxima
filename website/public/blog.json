@@ -1,0 +1,64 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "The Hunt for Habitable Exoplanets: A Cosmic Quest",
+        "description": "In the vast expanse of the universe, our solar system is just one small speck. But beyond the familiar planets that orbit our Sun, there lies a vast array of alien worlds known as exoplanets. These celestial bodies, orbiting distant stars, offer a tantalizing glimpse into the diversity of planetary systems and the possibility of extraterrestrial life. One of the most pressing questions in astronomy today is whether there are other planets out there that could potentially support life. This quest for habitable exoplanets has driven scientists to develop sophisticated instruments and techniques to detect and characterize these distant worlds.",
+        "image": "https://example.com/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Exoplanet Atmospheres: A Window into Alien Worlds",
+        "description": "Explore the methods scientists use to analyze the atmospheres of exoplanets and search for signs of habitability.",
+        "image": "https://example.com/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Exoplanet Exploration",
+        "description": "Learn about the upcoming missions and technologies that will revolutionize our understanding of exoplanets.",
+        "image": "https://example.com/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Exoplanet Biosignatures: Searching for Alien Life",
+        "description": "Discover the potential signs of life that astronomers are looking for in the atmospheres of exoplanets.",
+        "image": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "The History of Exoplanet Discovery",
+        "description": "Trace the evolution of exoplanet research from early theories to groundbreaking discoveries.",
+        "image": "https://example.com/image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Exoplanet Climates: A Diverse Range of Worlds",
+        "description": "Explore the different types of climates that exoplanets can have, from scorching hot to icy cold.",
+        "image": "https://example.com/image6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "The Search for a Second Earth",
+        "description": "Learn about the ongoing quest to find a planet that is similar to Earth in size, composition, and habitability.",
+        "image": "https://example.com/image7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Exoplanet Formation and Evolution",
+        "description": "Discover how exoplanets form and evolve over time, from their initial creation to their eventual fate.",
+        "image": "https://example.com/image8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Exoplanet Moons: A New Frontier of Exploration",
+        "description": "Explore the possibility of life on exoplanet moons and the challenges of studying these distant worlds.",
+        "image": "https://example.com/image9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "The Ethical Implications of Exoplanet Discovery",
+        "description": "Consider the ethical questions raised by the discovery of exoplanets, such as the potential for contact with extraterrestrial life.",
+        "image": "https://example.com/image10.jpg"
+      }
+    ]
+  }
