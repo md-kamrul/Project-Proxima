@@ -78,3 +78,10 @@ Learners can explore the planet and learn about different information related to
 
 Players can drive a spaceship from a distance on a fixed path if a planet is not landable for being a gas giant. If they cross that fixed path, an error is shown.
 
+Inside the ISS players can take quiz on the planets they visited. 
+
+## TECH STACK
+Web Application: Javascript, HTML, CSS, ReactJS, GSAP, NASA API
+Game Development: Unity , Webgl , C#, NASA 3D model
+
+## Impacts of Our Project
