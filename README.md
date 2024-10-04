@@ -9,3 +9,9 @@ https://github.com/md-kamrul/Project-Proxima
 ## LINK TO PROJECT
 [Website](https://proxima-7dac8.web.app/) <br/>
 [Play Game](https://imtiazahmeddipto.itch.io/exo-descover?secret=kA0tbMAYvx04K6A5yP9PjmToe4)
+
+## DETAILED PROJECT DESCRIPTION
+Our project was driven by a passion for making exoplanet education accessible and engaging for students through a gamified learning experience. In Exodiscover, players can explore a virtual museum filled with detailed information about exoplanets and then embark on a space journey where they must follow the correct path to reach their chosen exoplanet. Along the way, interactive quizzes test their knowledge, offering hints and advantages for correct answers, while wrong choices lead to game-over scenarios. If players successfully navigate through the orbit and reach the exoplanet, they complete the game.
+
+## HOW IT WORKS
+Here’s an overview of our system architecture. We are maintaining a secure system for protecting user data on this system. We are working on an interactive gaming system to make the learning process more engaging. We have used the Unity game Engine to build an interactive gaming-based learning platform. The system includes user-friendly interfaces for web applications, ensuring users can easily access and interact with the system. We are using the NASA website and API to provide authentic information.
