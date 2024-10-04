@@ -15,3 +15,15 @@ Our project was driven by a passion for making exoplanet education accessible an
 
 ## HOW IT WORKS
 Here’s an overview of our system architecture. We are maintaining a secure system for protecting user data on this system. We are working on an interactive gaming system to make the learning process more engaging. We have used the Unity game Engine to build an interactive gaming-based learning platform. The system includes user-friendly interfaces for web applications, ensuring users can easily access and interact with the system. We are using the NASA website and API to provide authentic information.
+
+
+<img width="1279" alt="Screenshot 2024-10-05 at 1 42 34 AM" src="https://github.com/user-attachments/assets/04e7f3ef-f54c-4435-af89-14f6b7fe3f0a">
+
+## FEATURES & SOLUTIONS
+There are two main parts of our project **Proxima**:
+- The Website
+- The Game
+
+# The website:
+
+The website has the following features:
