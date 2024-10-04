@@ -6,6 +6,11 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      "comic_neue": [
+        "Comic Neue", "cursive "
+      ],
+    },
   },
   plugins: [
     require('daisyui'),
