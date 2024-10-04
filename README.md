@@ -7,5 +7,5 @@ The **Proxima** project, developed by Team CryptoHattori, is an interactive web-
 https://github.com/md-kamrul/Project-Proxima
 
 ## LINK TO PROJECT
-[Website](https://proxima-7dac8.web.app/)
+[Website](https://proxima-7dac8.web.app/) < br / >
 [Play Game](https://imtiazahmeddipto.itch.io/exo-descover?secret=kA0tbMAYvx04K6A5yP9PjmToe4)
