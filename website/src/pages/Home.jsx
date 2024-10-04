@@ -1,3 +1,4 @@
+import ChatbotSection from "../component/ChatbotSection";
 import GameSection from "../component/GameSection";
 import HeroSection from "../component/HeroSection";
 
@@ -12,6 +13,9 @@ const Home = () => {
 
             {/* game introduction section */}
             <GameSection></GameSection>
+
+            {/* chatbot section */}
+            <ChatbotSection></ChatbotSection>
 
         </div>
     );
