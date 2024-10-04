@@ -1,6 +1,7 @@
 import ChatbotSection from "../component/ChatbotSection";
 import GameSection from "../component/GameSection";
 import HeroSection from "../component/HeroSection";
+import ResourceSection from "../component/ResourceSection";
 
 const Home = () => {
     return (
@@ -16,6 +17,9 @@ const Home = () => {
 
             {/* chatbot section */}
             <ChatbotSection></ChatbotSection>
+
+            {/* resources section */}
+            <ResourceSection></ResourceSection>
 
         </div>
     );
