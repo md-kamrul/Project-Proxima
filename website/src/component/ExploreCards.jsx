@@ -13,7 +13,9 @@ const ExploreCards = () => {
                     <h2 className="card-title text-4xl">Kepler-186f</h2>
                     <p>The first Earth-sized planet found in the habitable zone of another star, it orbits a K-dwarf star. Kepler-186f is a groundbreaking exoplanet, or a planet outside our solar system, that made headlines in 2014. It's the first planet with a radius similar to Earth's to be discovered in the habitable zone of another star.</p>
                     <div className="card-actions justify-end">
-                        <button className="btn bg-[#FF0000] text-white hover:bg-transparent hover:text-[#FF0000] hover:border hover:border-[#FF0000]">See Details</button>
+                        <a href="https://science.nasa.gov/exoplanet-catalog/kepler-186-f/">
+                            <button className="btn bg-[#FF0000] text-white hover:bg-transparent hover:text-[#FF0000] hover:border hover:border-[#FF0000]"  target="_blank">See Details</button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -29,7 +31,9 @@ const ExploreCards = () => {
                     <h2 className="card-title text-4xl">HD 209458 b (Osiris)</h2>
                     <p>HD 209458 b, also known as Osiris, is a gas giant exoplanet orbiting the star HD 209458. It made history in 1999 as the first exoplanet to have its atmosphere directly detected. This groundbreaking discovery opened up a new era in exoplanet research, allowing scientists to study the atmospheres of planets beyond our solar system.</p>
                     <div className="card-actions justify-end">
-                        <button className="btn bg-[#FF0000] text-white hover:bg-transparent hover:text-[#FF0000] hover:border hover:border-[#FF0000]">See Details</button>
+                        <a href="https://science.nasa.gov/exoplanet-catalog/hd-209458-b/"  target="_blank">
+                            <button className="btn bg-[#FF0000] text-white hover:bg-transparent hover:text-[#FF0000] hover:border hover:border-[#FF0000]">See Details</button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -71,7 +75,7 @@ const ExploreCards = () => {
                 </div>
                 <div className="absolute  text-3xl font-bold">Coming Soon...</div>
             </div>
-            
+
         </div>
     );
 };
