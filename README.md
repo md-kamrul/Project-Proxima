@@ -50,28 +50,31 @@ Learners can ask any question related to exoplanets using the **Ask AI** feature
 
 ### The Game:
 
-We have made the game as immersive as possible. The game is designed so that learners can enjoy it while learning, boosting engagement and retention. 
+We have made the game as immersive as possible. The game is designed so learners can enjoy it while learning, boosting engagement and retention. 
 
 The game starts in a classroom where the player puts on a VR headset that takes him to the ISS (International Space Station)
 
-![image1](https://github.com/user-attachments/assets/e90cc8cd-1a00-482d-8daf-ab0bd09b76ca)
+![image12](https://github.com/user-attachments/assets/1224d0b4-951e-4fea-8dd2-bce037cc3f3b)
 
-![image2](https://github.com/user-attachments/assets/1e34e952-f96e-4a0d-ab36-1c7b4b155657)
+![image9](https://github.com/user-attachments/assets/4e47353d-caf9-4155-a2b6-5751284f6ade)
 
 Players can view the 3D models of the exoplanets in the museum inside the ISS. They can take a spaceship and visit those planets that are **Landable**.
 
-![image3](https://github.com/user-attachments/assets/d31043b8-1c11-446d-b1d6-f27b077e3a3a)
+![image13](https://github.com/user-attachments/assets/9f2b6709-192d-4256-8f98-ae6aeb96f6bb)
 
-![image5](https://github.com/user-attachments/assets/52af1141-2c49-4694-acc3-f9abeb82cfce)
+![image3](https://github.com/user-attachments/assets/db2dfb69-2866-4f0a-bf90-f4509c57bd72)
 
-![image6](https://github.com/user-attachments/assets/eac60a9f-3558-42dc-931f-b43a9185b80f)
+![image10](https://github.com/user-attachments/assets/ba89fbcd-4a80-4159-9915-348089aa8acc)
 
-Learners can explore the planet and learn about different information related to that planet. They can also see 3D models of objects, such as the telescope that discovered that planet. They can learn about the planet from glowing balls and also take quizzes after learning.
+Learners can explore the planet and learn about different information related to that planet. They can also see 3D models of objects, such as the telescope that discovered that planet. They can learn about the planet from glowing balls and take quizzes after learning.
 
-![image9](https://github.com/user-attachments/assets/61198ec7-ee93-477d-856f-101f046d943b)
+![image5](https://github.com/user-attachments/assets/daf16b4e-fba8-4c5b-bd40-1ce5fb9ed5ca)
 
-![image10](https://github.com/user-attachments/assets/2cfc3499-e3de-471a-ae32-3a217a89a3e9)
+![image1](https://github.com/user-attachments/assets/ca47c39f-d0b1-450d-8a51-c1930d02b739)
 
-![image12](https://github.com/user-attachments/assets/4b47692a-f6d5-4d83-bc4f-64a11ab441e4)
+![image2](https://github.com/user-attachments/assets/af099193-de48-4f62-b358-0cb51958c4bf)
 
-![image13](https://github.com/user-attachments/assets/48ec7cf0-963f-4b4f-ab02-6c4e649a2799)
+![image6](https://github.com/user-attachments/assets/d67a9d06-421a-4d39-8683-6a6110b08847)
+
+Players can drive a spaceship from a distance on a fixed path if a planet is not landable for being a gas giant. If they cross that fixed path, an error is shown.
+
