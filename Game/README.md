@@ -9,7 +9,7 @@ To play the game online [click here](https://imtiazahmeddipto.itch.io/exo-descov
 
 -------------------------------------
 
-Developer: [Imtiaz Ahmed Dipto](https://github.com/imtiazahmeddipto)
-Game Dev
-Team: CryptoHattori
+Developer: [Imtiaz Ahmed Dipto](https://github.com/imtiazahmeddipto) <br/>
+Game Dev <br/>
+Team: CryptoHattori <br/>
 NASA Space App Challenge 2024
