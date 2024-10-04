@@ -54,4 +54,24 @@ We have made the game as immersive as possible. The game is designed so that lea
 
 The game starts in a classroom where the player puts on a VR headset that takes him to the ISS (International Space Station)
 
+![image1](https://github.com/user-attachments/assets/e90cc8cd-1a00-482d-8daf-ab0bd09b76ca)
 
+![image2](https://github.com/user-attachments/assets/1e34e952-f96e-4a0d-ab36-1c7b4b155657)
+
+Players can view the 3D models of the exoplanets in the museum inside the ISS. They can take a spaceship and visit those planets that are **Landable**.
+
+![image3](https://github.com/user-attachments/assets/d31043b8-1c11-446d-b1d6-f27b077e3a3a)
+
+![image5](https://github.com/user-attachments/assets/52af1141-2c49-4694-acc3-f9abeb82cfce)
+
+![image6](https://github.com/user-attachments/assets/eac60a9f-3558-42dc-931f-b43a9185b80f)
+
+Learners can explore the planet and learn about different information related to that planet. They can also see 3D models of objects, such as the telescope that discovered that planet. They can learn about the planet from glowing balls and also take quizzes after learning.
+
+![image9](https://github.com/user-attachments/assets/61198ec7-ee93-477d-856f-101f046d943b)
+
+![image10](https://github.com/user-attachments/assets/2cfc3499-e3de-471a-ae32-3a217a89a3e9)
+
+![image12](https://github.com/user-attachments/assets/4b47692a-f6d5-4d83-bc4f-64a11ab441e4)
+
+![image13](https://github.com/user-attachments/assets/48ec7cf0-963f-4b4f-ab02-6c4e649a2799)
