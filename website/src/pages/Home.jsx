@@ -1,7 +1,14 @@
+import HeroSection from "../component/HeroSection";
+
 const Home = () => {
     return (
-        <div>
-            home page
+        <div className="w-full">
+
+            {/* hero section */}
+            <div className="mb-20">
+                <HeroSection></HeroSection>
+            </div>
+            
         </div>
     );
 };
