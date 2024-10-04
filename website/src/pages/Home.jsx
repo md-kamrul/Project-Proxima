@@ -1,3 +1,4 @@
+import GameSection from "../component/GameSection";
 import HeroSection from "../component/HeroSection";
 
 const Home = () => {
@@ -8,7 +9,10 @@ const Home = () => {
             <div className="mb-20">
                 <HeroSection></HeroSection>
             </div>
-            
+
+            {/* game introduction section */}
+            <GameSection></GameSection>
+
         </div>
     );
 };
