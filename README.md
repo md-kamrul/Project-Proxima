@@ -81,7 +81,7 @@ Players can drive a spaceship from a distance on a fixed path if a planet is not
 Inside the ISS players can take quiz on the planets they visited. 
 
 ## TECH STACK
-Web Application: Javascript, HTML, CSS, ReactJS, GSAP, NASA API
+Web Application: Javascript, HTML, CSS, ReactJS, GSAP, NASA API <br/>
 Game Development: Unity , Webgl , C#, NASA 3D model
 
 ## Impacts of Our Project
@@ -93,21 +93,21 @@ Our goal with Proxima is to make learning about exoplanets and space exploration
 
 ## Highlighted Features
 
-Immersive museum with detailed exoplanet information
-Interactive space journeys
-Knowledge-testing quizzes
-Real NASA exoplanet data integration
-Cross-platform compatibility
-Engaging narratives and space exploration themes
+Immersive museum with detailed exoplanet information <br/>
+Interactive space journeys <br/>
+Knowledge-testing quizzes <br/>
+Real NASA exoplanet data integration <br/>
+Cross-platform compatibility <br/>
+Engaging narratives and space exploration themes <br/>
 User-friendly interface
 
 ## Space Agency Data
 
-NASA Exoplanets: Central hub for exoplanet research and educational resources.
-"Eyes on Exoplanets": 3D tool to explore exoplanet systems visually.
-NASA Exoplanet Archive: Data repository for exoplanets and their discovery methods.
-ESA Hack an Exoplanet: Real-time exoplanet data from the Cheops satellite for learning.
-Planetary Science Archive: ESA’s data from Solar System missions, including exoplanet info.
+NASA Exoplanets: Central hub for exoplanet research and educational resources. <br/>
+"Eyes on Exoplanets": 3D tool to explore exoplanet systems visually. <br/>
+NASA Exoplanet Archive: Data repository for exoplanets and their discovery methods. <br/>
+ESA Hack an Exoplanet: Real-time exoplanet data from the Cheops satellite for learning. <br/>
+Planetary Science Archive: ESA’s data from Solar System missions, including exoplanet info. <br/>
 Canadian Astronomy Data Centre: Access to Canadian space mission data on exoplanets.
 
 ## References
