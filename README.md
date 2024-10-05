@@ -111,5 +111,8 @@ Planetary Science Archive: ESA’s data from Solar System missions, including ex
 Canadian Astronomy Data Centre: Access to Canadian space mission data on exoplanets.
 
 ## References
-https://exoplanetarchive.ipac.caltech.edu/
-https://eyes.nasa.gov/apps/exo/
+https://exoplanetarchive.ipac.caltech.edu/ <br/>
+https://eyes.nasa.gov/apps/exo/ <br/>
+https://exoplanets.nasa.gov/exep/ <br/>
+https://www.nasa.gov/3d-resources/ <br/>
+https://nasa3d.arc.nasa.gov/
