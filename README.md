@@ -85,3 +85,31 @@ Web Application: Javascript, HTML, CSS, ReactJS, GSAP, NASA API
 Game Development: Unity , Webgl , C#, NASA 3D model
 
 ## Impacts of Our Project
+![impacts](https://github.com/user-attachments/assets/4fbe0e24-1b41-447e-b561-b814db53139a)
+
+## HOPE TO ACHIEVE
+
+Our goal with Proxima is to make learning about exoplanets and space exploration engaging and accessible to students. We aim to spark curiosity about the universe and contribute to a generation more informed about celestial science. By combining education with interactive gameplay, we hope to foster a deeper understanding of exoplanets and encourage interest in STEM fields. Ultimately, we aspire to inspire students to explore space science and develop a passion for the mysteries beyond Earth.
+
+## Highlighted Features
+
+Immersive museum with detailed exoplanet information
+Interactive space journeys
+Knowledge-testing quizzes
+Real NASA exoplanet data integration
+Cross-platform compatibility
+Engaging narratives and space exploration themes
+User-friendly interface
+
+## Space Agency Data
+
+NASA Exoplanets: Central hub for exoplanet research and educational resources.
+"Eyes on Exoplanets": 3D tool to explore exoplanet systems visually.
+NASA Exoplanet Archive: Data repository for exoplanets and their discovery methods.
+ESA Hack an Exoplanet: Real-time exoplanet data from the Cheops satellite for learning.
+Planetary Science Archive: ESA’s data from Solar System missions, including exoplanet info.
+Canadian Astronomy Data Centre: Access to Canadian space mission data on exoplanets.
+
+## References
+https://exoplanetarchive.ipac.caltech.edu/
+https://eyes.nasa.gov/apps/exo/
